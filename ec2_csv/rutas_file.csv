@@ -1,0 +1,4 @@
+id,ciudad_orig,ciudad_dest,estado_orig,estado_dest
+1,CDMX,OAX,MEX,OAX
+2,CDMX,QRT,MEX,QRT
+3,QRT,MTR,QRT,NLN

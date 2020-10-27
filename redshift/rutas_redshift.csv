@@ -1,0 +1,4 @@
+id_x,ciudad_orig,ciudad_dest,estado_orig,estado_dest,tiempo_min,costo_peso,capac_cubft
+1,CDMX,OAX,MEX,OAX,48.0,600.0,20.0
+2,CDMX,QRT,MEX,QRT,36.0,250.0,30.0
+3,QRT,MTR,QRT,NLN,42.0,800.0,30.0
